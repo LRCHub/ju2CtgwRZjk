@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "singer.song.writers.(alpinist.)",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T15:43:09.734621Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "singer.song.writers.(alpinist.)",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_singer.song.writers.(alpinist.)_伊東歌詞太郎.txt"
+    }
+  ]
+}
